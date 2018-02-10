@@ -1,5 +1,5 @@
-/* Task # 1. Display the number e (the base of the natural logarithm) to within a tenth.
- * Задача № 1. Вывести на экран число e (основание натурального логарифма) с точностью до десятых.*/
+/* Task # 2. Display the number e (the base of the natural logarithm) to within a tenth.
+ * Задача № 2. Вывести на экран число e (основание натурального логарифма) с точностью до десятых.*/
 
 package com.gmail.sklprime;
 
