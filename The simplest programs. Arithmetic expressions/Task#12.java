@@ -1,7 +1,7 @@
 /* Task # 12. Make the output program the following information:
 a)
 5 10
-7 centimeters
+7 cm
 b)
 100 t
 1949 v
