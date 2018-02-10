@@ -1,6 +1,6 @@
-/* Task # 1. Create a program to display the number entered on the keyboard.
+/* Task # 4. Create a program to display the number entered on the keyboard.
  * After the output number should follow the message "- that's what number you entered".
- * Задача № 1. Составить программу вывода на экран числа, вводимого с клавиатуры.
+ * Задача № 4. Составить программу вывода на экран числа, вводимого с клавиатуры.
  * После выводимого числа должно следовать сообщение " - вот какое число Вы ввели".*/
 
 package com.gmail.sklprime;
