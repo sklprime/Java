@@ -9,9 +9,9 @@ c)
 x y
 5 y
 Note
-a, b, x and y are integer-type variables whose values ​​are entered from the keyboard
+a, b, x and y are integer-type variables whose values are entered from the keyboard
  and must be output in place of the value names.
- * Задача № 12. Составить программу вывода на экран следующей информации:
+ * Задача № 13. Составить программу вывода на экран следующей информации:
 а)
 2 кг
 13 17
