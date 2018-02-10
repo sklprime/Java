@@ -12,8 +12,9 @@ public class Main {
 		int numTwo;
 		numTwo = 10;
 
-		System.out.println(numOne);
-		System.out.println(numTwo);
+		// System.out.println(numOne);
+		// System.out.println(numTwo);
+		System.out.println(numOne + "\n" + numTwo);
 
 	}
 
